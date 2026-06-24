@@ -1,0 +1,6 @@
+{
+  "name": "Summa Plus Uitleen",
+  "description": "Een eenvoudig uitleensysteem voor Summa College en Summa Plus om materialen te registreren, beheren en uit te lenen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
